@@ -11,14 +11,5 @@ fetch('https://js-dynamic-portfolio-data-makerslab-emlyon-cdweb-8f83155c64a0cc.g
 
 
 
-
-
-
-
-        
-
-
-
-
         //c'est un échec pour moi. mais je suis quand même venue affronter la bête.
         // merci pour votre soutient et votre aide. Spécialement Joris qui a eu un vain espoir de pouvoir m'éclairer.
